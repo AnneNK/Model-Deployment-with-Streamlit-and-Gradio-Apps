@@ -8,17 +8,22 @@ For the Gradio App, we will be deploying a Classification Model for Customer Chu
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
 |LP4 | Streamlit App |  [Best article of the world](/) | [https://github.com/AnneNK/Sales-Forecast-Deployment-on-Streamlit](/) |
+|LP4 | Gradio App    |  [Best article of the world](/) | [https://github.com/AnneNK/Model-Deployment-on-Gradio-for-Telco-Customer-Churn](/) |
 
 
-## Project Description
-...
+## Interface Capability
+1. Pass values through the interface.
+2. Recover these values in backend.
+3. Apply the necessary processing.
+4. Submit the previously processed values to the ML model to make the predictions.
+5. Process the predictions obtained and display them on the interface.
 
 ## Setup
-...
+Check the requirements.txt file.
 
 ## App Execution
 ...
 
 ## Author
-...
+Anne K
 
